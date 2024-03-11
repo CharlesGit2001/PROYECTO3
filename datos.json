@@ -1,0 +1,76 @@
+{
+  "articulos": [
+            {
+              "categoria":"amor", 
+              "nombreProducto": "Ramo de 12 rosas rosas",
+                "precio":"$350.00",
+              "imagen":"img/12rosas.jpg"
+            },
+            {
+              "categoria":"amor", 
+              "nombreProducto": "Ramo de 12 gerberas",
+                "precio":"$350.00",
+                        "imagen":"img/12gerberas.jpg"
+            },
+            {
+              "categoria":"amor", 
+              "nombreProducto": "Orquídea Blanca",
+                "precio":"$599.00",
+              "imagen":"img/orquidea.jpg"
+            }, 
+            {
+              "categoria":"amor", 
+              "nombreProducto": "Jarrón con rosas y claveles",
+                "precio":"$480.00",
+              "imagen":"img/rosas-claveles.jpg"
+            }, 
+            {
+              "categoria":"condolencias", 
+              "nombreProducto": "Ramo de 12 rosas blancas",
+                "precio":"$399.00",
+              "imagen":"img/rosas-blancas.jpg"
+            }, 
+            {
+              "categoria":"condolencias", 
+              "nombreProducto": "Corona Mediana",
+                "precio":"$1,200.00",
+              "imagen":"img/corona-md.jpg"
+            }, 
+            {
+              "categoria":"condolencias", 
+              "nombreProducto": "Corona Grande",
+                "precio":"$1,700.00",
+              "imagen":"img/corona-gd.jpg"
+            }, 
+            {
+              "categoria":"condolencias", 
+              "nombreProducto": "Cruz de Flores",
+                "precio":"$1,900.00",
+              "imagen":"img/cruz.jpg"
+            }, 
+            {
+              "categoria":"cumpleaños", 
+              "nombreProducto": "Rosa en Caja",
+                "precio":"$160.00",
+              "imagen":"img/rosa_caja.jpg"
+            }, 
+            {
+              "categoria":"cumpleaños", 
+              "nombreProducto": "Oso de peluche",
+                "precio":"$250.00",
+              "imagen":"img/oso.jpg"
+            }, 
+            {
+              "categoria":"cumpleaños", 
+              "nombreProducto": "Caja de Chocolates",
+                "precio":"$330.00",
+              "imagen":"img/chocolates.jpg"
+            }, 
+            {
+              "categoria":"cumpleaños", 
+              "nombreProducto": "Ramo de Rosas y Lilys",
+                "precio":"$389.00",
+              "imagen":"img/chocolates.jpg"
+            }
+  ]
+}

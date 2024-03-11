@@ -1,0 +1,28 @@
+[
+  {
+    "numeroPedido": "123456",
+    "estado": "Pendiente",
+    "nombreProducto": "Ramo de 12 rosas rojas",
+    "precio": 350.00,
+    "cantidad": 1,
+    "total": 350.00,
+    "fechaEntrega": "2023-08-15",
+    "horarioEntrega": "10:00 AM",
+    "direccion": "Calle Principal, Ciudad",
+    "nombreReceptor": "Ana García",
+    "mensaje": "Feliz Cumpleaños"
+  },
+  {
+    "numeroPedido": "987654",
+    "estado": "Entregado",
+    "nombreProducto": "Caja de chocolates",
+    "precio": 330.00,
+    "cantidad": 1,
+    "total": 330.00,
+    "fechaEntrega": "2023-08-20",
+    "horarioEntrega": "2:30 PM",
+    "direccion": "Avenida Central, Pueblo",
+    "nombreReceptor": "Juan Pérez",
+    "mensaje": "Te quiero"
+  }
+]
